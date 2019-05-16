@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="hj" time="1" tests="2" failures="0" errors="0">
+   <testsuite name="hj" tests="2" failures="0" errors="0" time="1" timestamp="2019-04-24 14:26:08" hostname="User - AnhNDSE63049" id="Test Suites/hj">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\IT\\Katalon\\new\\Reports\\hj\\20190424_142601"/>
+         <property name="logFiles" value="D:\\IT\\Katalon\\new\\Reports\\hj\\20190424_142601\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - AnhNDSE63049"/>
+         <property name="hostAddress" value="192.168.112.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+      </properties>
+      <testcase name="Test Cases/r" classname="Test Cases/r" status="PASSED">
+         <system-out><![CDATA[2019-04-24 14:26:09 - [TEST_CASE][PASSED] - Test Cases/r: Test Cases/r
+
+2019-04-24 14:26:09 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/p" classname="Test Cases/p" status="PASSED">
+         <system-out><![CDATA[2019-04-24 14:26:09 - [TEST_CASE][PASSED] - Test Cases/p: Test Cases/p
+
+2019-04-24 14:26:09 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-24 14:26:08 - [TEST_SUITE][PASSED] - hj: Test Cases/p]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

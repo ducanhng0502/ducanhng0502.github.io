@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+hj,,,,2019-04-24 14:26:08,2019-04-24 14:26:10,1.351s,PASSED
+,,,,,,,
+Test Cases/r,,,,2019-04-24 14:26:09,2019-04-24 14:26:09,0.471s,PASSED
+return null,,,,2019-04-24 14:26:09,2019-04-24 14:26:09,0.002s,PASSED
+,,,,,,,
+Test Cases/p,,,,2019-04-24 14:26:09,2019-04-24 14:26:09,0.226s,PASSED
+return null,,,,2019-04-24 14:26:09,2019-04-24 14:26:09,0.001s,PASSED
